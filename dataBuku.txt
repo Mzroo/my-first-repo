@@ -1,0 +1,4 @@
+B02|Bahasa Inggris|5000|30
+B03|Si Juki|10000|90
+B04|Otang|5000|100
+B01|Urang Mana|5000|100
